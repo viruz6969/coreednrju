@@ -1,0 +1,3 @@
+ABY GRACZ DOSTAWAL SEJF GDY WEJDZIE 1 RAZ NA SERWER MUSISZ DODAC DO CORA
+PlayerQuitJoinListener/ONJOIN/PO 40 LINJNE DODAC TO SejfManager.addSejf(SejfManager.sejfs.size() + 1, p.getName(), "Brak");
+!!MUSISZ DODAC plg na sejfy do libaries jak vault itd
